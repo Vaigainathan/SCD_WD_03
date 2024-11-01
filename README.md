@@ -1,4 +1,5 @@
 Tic Tac Toe Web Application 🎮
+![Screenshot 2024-11-01 194448](https://github.com/user-attachments/assets/8192324d-ef5a-4910-bf9d-20952f36bc68)
 
 A simple, interactive Tic Tac Toe game built with pure HTML, CSS, and JavaScript! This classic two-player game lets you enjoy a quick match with a friend, complete with a feature that announces the winner. Whether you’re practising JavaScript or want a quick game, this project is fun, responsive, and easy to play.
 
